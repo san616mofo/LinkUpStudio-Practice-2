@@ -60,6 +60,7 @@ Builds the app for production to the build folder: `yarn build`
 <div align="center">
   <img src="https://github.com/san616mofo/LinkUpStudio-Practice-2/blob/master/screenshots/task3/1.png?raw=true" height="300px" alt="task3-img1"/>
   <img src="https://github.com/san616mofo/LinkUpStudio-Practice-2/blob/master/screenshots/task3/2.png?raw=true" height="300px" alt="task3-img2"/>
+  <br/>
   <img src="https://github.com/san616mofo/LinkUpStudio-Practice-2/blob/master/screenshots/task3/3.png?raw=true" height="300px" alt="task3-img3"/>
   <img src="https://github.com/san616mofo/LinkUpStudio-Practice-2/blob/master/screenshots/task3/4.png?raw=true" height="300px" alt="task3-img4"/>
 </div>
